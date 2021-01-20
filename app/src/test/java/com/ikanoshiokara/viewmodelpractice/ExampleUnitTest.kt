@@ -1,4 +1,4 @@
-package com.yeahoohunters.viewmodelpractice
+package com.ikanoshiokara.viewmodelpractice
 
 import org.junit.Test
 
